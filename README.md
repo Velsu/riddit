@@ -10,7 +10,7 @@ This is a simple application similar to reddit built in Ruby on Rails for traini
 
 * Ruby on Rails 4.2.1
 
-** Gems 
+**Gems** 
 - simple_form
 - acts_as_votable 
 - devise
